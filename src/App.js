@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          I'll be added to the next release.
+          I'll be added to the next release yet again.
         </header>
       </div>
     );
